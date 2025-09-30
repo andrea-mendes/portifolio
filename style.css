@@ -139,9 +139,9 @@ button:hover{
     height: 100vh;
 }
 .text2{
-      padding: 80px 0 0 100px;
+      padding: 60px 0 0 100px;
       color: #08dc6e;
-      margin-top: 20px;
+      margin-top: 0px;
       font-size: 15px;
 }
 .text2 p{
@@ -212,7 +212,7 @@ button:hover{
     color: #ee86d8;
     font-size: 15px;
     align-items: flex-end;
-    padding: 100px 0 0 0px;
+    padding: 70px 0 0 0px;
 }
 .container-formação-cursos{
      background: linear-gradient(rgba(3, 0, 3, 0.5), rgba(0,0,0,0.5));
